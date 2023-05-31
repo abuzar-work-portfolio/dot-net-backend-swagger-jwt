@@ -1,1 +1,1 @@
-# dot-net-backend-swagger-jwt
+# MinimalAPIAuth-Swagger
